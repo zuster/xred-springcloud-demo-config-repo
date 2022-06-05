@@ -1,2 +1,2 @@
 # xred-springcloud-demo-config-repo
-xred-springcloud-demo config repository
+xred-springcloud-demo 配置仓库
